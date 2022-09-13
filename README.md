@@ -1,6 +1,6 @@
 # Processing.Exp2
 
-- In this project I used Procesing to listen to audio from a mic and create a series of bubbles.
+- In this project I used Processing to listen to audio from a microphone and create a series of bubbles.
 - The colors of the bubbles are random.   
 
 I split the audio into multiple audio bins,   
