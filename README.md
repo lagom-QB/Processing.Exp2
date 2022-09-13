@@ -1,7 +1,7 @@
 # Processing.Exp2
 
 - In this project I used Processing to listen to audio from a microphone and create a series of bubbles.
-- The colors of the bubbles are random.   
+- The colors of the bubbles are randomly generated but I stuck with shades of red because I fell for the colors of summer.   
 
 I split the audio into multiple audio bins,   
 the sizes and positions of the bubbles depend on random maximum audio amplitudes.  
